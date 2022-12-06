@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Mozilla Public License 2.0"
+
+[[mods]]
+modId="wood_ore"
+version="1.0.0"
+displayName="Wood ore"
+credits="BubblePlayz#3098"
+displayURL="https://mcreator.net"
+authors="BubblePlayz5480"
+description='''
+Simple mod I made with MCreator
+'''
+
+[[dependencies.wood_ore]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

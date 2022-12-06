@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "wood_ore:blocks/wood_ore",
+    "up": "wood_ore:blocks/wood_ore",
+    "north": "wood_ore:blocks/wood_ore",
+    "east": "wood_ore:blocks/wood_ore",
+    "south": "wood_ore:blocks/wood_ore",
+    "west": "wood_ore:blocks/wood_ore",
+    "particle": "wood_ore:blocks/wood_ore"
+  },
+  "render_type": "solid"
+}
